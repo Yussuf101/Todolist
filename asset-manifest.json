@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Yussuf101/Todo-list.git/static/css/main.0f1314d3.chunk.css",
-    "main.js": "/Yussuf101/Todo-list.git/static/js/main.89e34c42.chunk.js",
-    "main.js.map": "/Yussuf101/Todo-list.git/static/js/main.89e34c42.chunk.js.map",
-    "runtime-main.js": "/Yussuf101/Todo-list.git/static/js/runtime-main.610fc421.js",
-    "runtime-main.js.map": "/Yussuf101/Todo-list.git/static/js/runtime-main.610fc421.js.map",
-    "static/js/2.ed828831.chunk.js": "/Yussuf101/Todo-list.git/static/js/2.ed828831.chunk.js",
-    "static/js/2.ed828831.chunk.js.map": "/Yussuf101/Todo-list.git/static/js/2.ed828831.chunk.js.map",
-    "static/js/3.88a1c3b8.chunk.js": "/Yussuf101/Todo-list.git/static/js/3.88a1c3b8.chunk.js",
-    "static/js/3.88a1c3b8.chunk.js.map": "/Yussuf101/Todo-list.git/static/js/3.88a1c3b8.chunk.js.map",
-    "index.html": "/Yussuf101/Todo-list.git/index.html",
-    "static/css/main.0f1314d3.chunk.css.map": "/Yussuf101/Todo-list.git/static/css/main.0f1314d3.chunk.css.map",
-    "static/js/2.ed828831.chunk.js.LICENSE.txt": "/Yussuf101/Todo-list.git/static/js/2.ed828831.chunk.js.LICENSE.txt"
+    "main.css": "/Yussuf101/Todolist.git/static/css/main.0f1314d3.chunk.css",
+    "main.js": "/Yussuf101/Todolist.git/static/js/main.89e34c42.chunk.js",
+    "main.js.map": "/Yussuf101/Todolist.git/static/js/main.89e34c42.chunk.js.map",
+    "runtime-main.js": "/Yussuf101/Todolist.git/static/js/runtime-main.9246ede2.js",
+    "runtime-main.js.map": "/Yussuf101/Todolist.git/static/js/runtime-main.9246ede2.js.map",
+    "static/js/2.ed828831.chunk.js": "/Yussuf101/Todolist.git/static/js/2.ed828831.chunk.js",
+    "static/js/2.ed828831.chunk.js.map": "/Yussuf101/Todolist.git/static/js/2.ed828831.chunk.js.map",
+    "static/js/3.88a1c3b8.chunk.js": "/Yussuf101/Todolist.git/static/js/3.88a1c3b8.chunk.js",
+    "static/js/3.88a1c3b8.chunk.js.map": "/Yussuf101/Todolist.git/static/js/3.88a1c3b8.chunk.js.map",
+    "index.html": "/Yussuf101/Todolist.git/index.html",
+    "static/css/main.0f1314d3.chunk.css.map": "/Yussuf101/Todolist.git/static/css/main.0f1314d3.chunk.css.map",
+    "static/js/2.ed828831.chunk.js.LICENSE.txt": "/Yussuf101/Todolist.git/static/js/2.ed828831.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.610fc421.js",
+    "static/js/runtime-main.9246ede2.js",
     "static/js/2.ed828831.chunk.js",
     "static/css/main.0f1314d3.chunk.css",
     "static/js/main.89e34c42.chunk.js"
