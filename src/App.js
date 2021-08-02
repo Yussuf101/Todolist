@@ -49,6 +49,7 @@ function toggleTodo(id){
       <ToDoList todoes={todoes} toggleTodo ={toggleTodo}/>
       <br/>
       <br/>
+      <br/>
       <div> {todoes.filter(todoes=> !todoes.complete).length} Items still need doing</div>
     </>
   );

@@ -8,6 +8,7 @@ function ToDoList({todoes, toggleTodo}){
         todoes.map(todo =>{
             return <Todo key={todo.id} toggleTodo = {toggleTodo} todo={todo}/>
         })
+        
     )
 }
 
